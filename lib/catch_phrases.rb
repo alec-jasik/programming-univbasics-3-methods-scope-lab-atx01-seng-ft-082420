@@ -13,3 +13,6 @@ def link
   puts advice 
 end 
 
+def all_phrases
+  
+end
